@@ -1,4 +1,10 @@
 {
     "isBaseRuleset": false,
-    "modurl":"https://github.com/chenxing61/EnD-Music-Pack"
+    "modurl":"https://github.com/chenxing61/EnD-Music-Pack",
+    "author": "chenxing61",
+    "topics": [
+        "unciv-mod",
+        "unciv-mod-audio",
+        "unciv-mod-modsofmods"
+    ],
 }
